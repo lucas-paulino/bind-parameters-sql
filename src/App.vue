@@ -29,7 +29,6 @@
     margin: 30px 0px;
   }
   #main{
-    background-color: #f1f1f1;
     padding: 30px 0px;
   }
 </style>
